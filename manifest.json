@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Registra ingresos y gastos con cierres mensuales. El saldo restante se acumula automáticamente al mes siguiente.",
-  "author": "Tu Nombre",
+  "author": "Angelcasasbl",
   "authorUrl": "",
   "isDesktopOnly": false
 }
